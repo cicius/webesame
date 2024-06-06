@@ -793,6 +793,10 @@ div.ink-stili p{
         font-size: 64px;
     }
 
+    .introbob{
+        background-position: 550px;
+    }
+
     .info-inkbob.info {
         width: 90%;
     }
@@ -801,20 +805,52 @@ div.ink-stili p{
         font-size: 64px;
     }
 
+    .introgargiulo{
+        background-position: 600px;
+    }
+
     .introbrocca h1{
         font-size: 64px;
+    }
+
+    .introbrocca{
+        background-position: 550px;
+    }
+
+    .introrossini{
+        background-position: 550px;
+    }
+
+    .intromarchini{
+        background-position: 550px;
+    }
+
+    .introsnt{
+        background-position: 500px;
     }
 
     .introchiesa h1{
         font-size: 64px;
     }
 
+    .introchiesa{
+        background-position: 500px;
+    }
+
     .introgaldo h1{
         font-size: 64px;
     }
 
+    .introgaldo{
+        background-position: 550px;
+    }
+
     .introtoy h1{
         font-size: 64px
+    }
+
+    .introtoy{
+        background-position: 550px;
     }
 
     .contenitoretitolo h1{
